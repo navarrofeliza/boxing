@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\boxing\\boxing.csproj": {}
+    "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\week1_c_sharp\\boxing\\boxing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\boxing\\boxing.csproj": {
+    "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\week1_c_sharp\\boxing\\boxing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\boxing\\boxing.csproj",
+        "projectUniqueName": "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\week1_c_sharp\\boxing\\boxing.csproj",
         "projectName": "boxing",
-        "projectPath": "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\boxing\\boxing.csproj",
+        "projectPath": "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\week1_c_sharp\\boxing\\boxing.csproj",
         "packagesPath": "C:\\Users\\ruros\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\boxing\\obj\\",
+        "outputPath": "C:\\Users\\ruros\\OneDrive\\Documents\\Coding_School\\c#\\week1_c_sharp\\boxing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruros\\AppData\\Roaming\\NuGet\\NuGet.Config"

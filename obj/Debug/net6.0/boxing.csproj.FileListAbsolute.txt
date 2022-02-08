@@ -1,0 +1,15 @@
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\bin\Debug\net6.0\boxing.exe
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\bin\Debug\net6.0\boxing.deps.json
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\bin\Debug\net6.0\boxing.runtimeconfig.json
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\bin\Debug\net6.0\boxing.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\bin\Debug\net6.0\ref\boxing.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\bin\Debug\net6.0\boxing.pdb
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.csproj.AssemblyReference.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.AssemblyInfoInputs.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.AssemblyInfo.cs
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.csproj.CoreCompileInputs.cache
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\ref\boxing.dll
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.pdb
+C:\Users\ruros\OneDrive\Documents\Coding_School\c#\week1_c_sharp\boxing\obj\Debug\net6.0\boxing.genruntimeconfig.cache
